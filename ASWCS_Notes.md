@@ -13,9 +13,9 @@
   
 ### Create
 
-- [ ] Package Diagrams
+- [x] Package Diagram containing packages
 - [ ] Use Case Diagrams
-- [ ] Stakeholders Diagram
+- [x] Stakeholders Diagram
 - [ ] Requirements
 
 ### Requirements (TBD)
