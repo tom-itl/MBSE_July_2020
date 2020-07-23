@@ -14,7 +14,7 @@
 ### Create
 
 - [x] Package Diagram containing packages
-- [ ] Use Case Diagrams
+- [x] Use Case Diagrams
 - [x] Stakeholders Diagram
 - [ ] Requirements
 
@@ -45,3 +45,9 @@
 ### Desirements
 
 - The ASWCS shall have living quarters and associated amentities (lavatory, kitchen, etc) for up to five research personnel.
+
+
+### Leo's User Story List
+
+1. Transport System will be low cost and use sustainable design implementation with minimal environmental impact
+1. Transport System will expedite recycling processing
