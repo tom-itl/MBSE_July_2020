@@ -51,3 +51,10 @@
 
 1. Transport System will be low cost and use sustainable design implementation with minimal environmental impact
 1. Transport System will expedite recycling processing
+1. Transport System will have minimal logistical needs and maintenance costs
+1. Transport System will use 100% renewable energy source for operation
+1. Stakeholders for: Environmentalists, Conservation Organizations, Budget Stakeholders (non-profit organizations), Coastal Communities
+1. Stakeholders against: Ocean Life Preservation Organizations, Coastal Community Members Against Recycling Processing Centers
+1. Transport System will be autonomously operated except for times that require manual operation and maintenance needs
+1. Transport System will start from a docking station and travel autonomously to the collection center. The system will collect the waste and transport it back to the recycling center.
+1. Transport System will be a modular design such that specific subsystems will be reusable. Other subsystems will use materials that are as sustainable and recyclable as practical.
