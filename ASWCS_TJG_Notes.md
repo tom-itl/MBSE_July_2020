@@ -16,7 +16,7 @@
 - [x] Package Diagram containing packages
 - [x] Use Case Diagrams
 - [x] Stakeholders Diagram
-- [ ] Requirements
+- [x] Requirements
 
 ### Requirements (Draft)
 
@@ -58,3 +58,40 @@
 1. Transport System will be autonomously operated except for times that require manual operation and maintenance needs
 1. Transport System will start from a docking station and travel autonomously to the collection center. The system will collect the waste and transport it back to the recycling center.
 1. Transport System will be a modular design such that specific subsystems will be reusable. Other subsystems will use materials that are as sustainable and recyclable as practical.
+
+
+## Team Presentation Thoughts
+
+### Purpose
+
+The reason for a team project is to demonstrate what we've learned, *not* to design an autonomous waste transportation system. To that end, a few representative diagrams are sufficient, without going into great design detail. Broad strokes...
+
+### Outline
+
+- Diagrams:
+  - Overall Context Diagram
+  - A few "normal op" context diagrams to feed into an FFBD, e.g.:
+    - Transiting from harbor dock to open ocean (perhaps skip return case)
+    - Transiting from open ocean to collection site (perhaps skip return case)
+    - Taking on waste from collection site
+    - Offloading waste to recycling facility
+  - Functional Flow Block Diagram - Normal Op
+  - IDEF0 - Normal Op
+  - Package Diagram 
+  - Use Case Diagram - one or two should be sufficient
+  - Activity Diagrams
+    - One with major blocks from FFBD
+    - Two or three more to break down some of the major blocks, e.g. details on docking or controlling vessel autonomously
+  - Requirements Diagram/Table 
+    - This one is pretty easy using the Excel I/O
+    - I added all the compiled requirements into my diagram and they're also in an Excel file
+    - I have *not* connected any together in the diagram, or added anything to columns other than name and text
+  - Block Definition Diagrams
+    - May only need one overall diagram
+  - State Machine Diagram(s)
+    - Should be able to get away with one showing various vessel states
+  - We'll learn about these next week:
+    - Sequence Diagram(s)
+    - Internal Block Diagram(s)
+    - Parametric Diagram(s)
+    
