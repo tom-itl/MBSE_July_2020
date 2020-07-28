@@ -94,4 +94,5 @@ The reason for a team project is to demonstrate what we've learned, *not* to des
     - Sequence Diagram(s)
     - Internal Block Diagram(s)
     - Parametric Diagram(s)
+    - One or two each due to limited time
     
